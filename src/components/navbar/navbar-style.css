@@ -1,0 +1,10 @@
+.logo-brand{
+    width: 55px;
+    object-fit: contain;
+}
+.gray-font-color{
+    color:#ffffffb7;
+}
+.gray-font-color:hover{
+    color: #ffffffe1;
+}
